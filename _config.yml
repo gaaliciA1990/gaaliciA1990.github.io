@@ -30,7 +30,7 @@ linkedin_username: aligarcial
 github_username:  gaaliciA1990
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 
