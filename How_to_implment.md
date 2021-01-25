@@ -18,7 +18,13 @@ Github Pages Setupn is not complete and needs supplemental steps as laid out bel
 # Updating a theme to the Website
 1. Find a theme of your choice
 
-Example: https://jekyllthemes.io/
+Examples: 
+https://jekyllthemes.io/
+http://jekyllthemes.org/
+https://jekyllrb.com/docs/themes/ - This also provides instructions on how to update the defaults!
+https://jamstackthemes.dev/ssg/jekyll/
+http://themes.jekyllrc.org/
+
 
 2.Download the files from the github repo to your desktop
 
@@ -29,6 +35,8 @@ Example: https://jekyllthemes.io/
 
 5. On a successful complete, run the following command
 `bundle exec jekyll serve`
+
+TL/DR; My pages theme instructions (beautifully documented, kudos to the creator!): The About tab https://jamstackthemes.dev/demo/theme/devlopr/
 
 ---
 # Customization
