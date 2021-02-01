@@ -25,8 +25,7 @@ https://jekyllrb.com/docs/themes/ - This also provides instructions on how to up
 https://jamstackthemes.dev/ssg/jekyll/
 http://themes.jekyllrc.org/
 
-
-2.Download the files from the github repo to your desktop
+2. Download the files from the github repo to your desktop
 
 3. Copy the files into your webpage repo.
 
@@ -47,8 +46,16 @@ Set the theme and settings of the page through the **_config.yml** file.
 
 ### To edit the about section
 
-about.markdown
+fileName = about.markdown
 
 ### Home page
 
-index.markdown
+fileName = index.markdown
+
+---
+# Working with Website from the terminal
+
+### Launching the website
+1. In the repo folder, enter the command: `bundle exec jekyll serve`
+2. Enter the following into the url line: http://localhost:4000/
+
