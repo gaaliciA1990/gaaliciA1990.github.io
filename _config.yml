@@ -28,10 +28,5 @@ version:          2.1.0
 github:
   repo:           https://github.com/gaaliciA1990/gaaliciA1990.github.io
 
-<<<<<<< HEAD
-# Build settings
-theme: jekyll-theme-modernist
-=======
->>>>>>> abfbc96... publishing website
 plugins:
   - jekyll-feed
